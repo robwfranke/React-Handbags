@@ -41,17 +41,19 @@ function App() {
 
                 */}
 
-                <Article articleName="Best seller" image={bag1} alternativeText="bag1">
+                <Article articleName="Best seller" image={bag1} alternativeText="bag1" typeOfBag="handy" price ="400,-">
                 </Article>
 
-                <Article articleName="Best seller" image={bag2} alternativeText="bag2">
+                <Article articleName="Best seller" image={bag2} alternativeText="bag2" typeOfBag="handy" price ="250,-">
                 </Article>
 
-                <Article articleName="New Collection" image={bag3} alternativeText="bag3">
+                <Article articleName="New Collection" image={bag3} alternativeText="bag3" typeOfBag="handy" price ="300,-">
                 </Article>
 
-                <Article articleName="New Collection" image={bag4} alternativeText="bag4">
+                <Article articleName="New Collection" image={bag4} alternativeText="bag4" typeOfBag="handy" price ="150,-">
                 </Article>
+
+
 
 
 
